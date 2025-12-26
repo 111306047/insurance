@@ -5,6 +5,6 @@ Insurance RAG Vector Dataset
 數據集下載
 由於數據量較大，為了確保版本穩定性，我們將檔案存放於 GitHub Releases 中：
 
-insurance_rag_data.csv (Full Version) - 完整向量資料集，包含預計算的 Embedding。
+insurance_rag_data.csv (Full Version) - link：https://github.com/111306047/insurance/releases/download/v1.0.0/insurance_rag_data.csv。
 
-data_sample.csv - 快速測試用樣點（建議先下載此檔案測試代碼邏輯）。
+
